@@ -10,6 +10,6 @@ def fizzbuzz (int)
 
 
  else
-   return "nil"
+   return nil
  end
 end
